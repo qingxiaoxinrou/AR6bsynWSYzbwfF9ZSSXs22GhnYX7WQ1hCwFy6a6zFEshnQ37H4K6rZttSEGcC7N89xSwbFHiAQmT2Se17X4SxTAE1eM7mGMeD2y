@@ -38,7 +38,8 @@ jobs:
 
       - name: Remove comment lines, duplicate lines, and lines starting with
         run: |
-          awk '!/^#|^!|^@@|^:|^/(http/' merged.txt | sort | uniq > 1/1.txt
+          awk '!/^#|^!|^@@|^:/' merged.txt | sort | uniq > 1/1.txt
+
       - name: Check if output file was created
         run: |
           ls -l 1/1.txt
