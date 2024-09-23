@@ -37,9 +37,9 @@ jobs:
         run: |
           mkdir -p 1
 
-      - name: Remove duplicate lines
+      - name: Remove comment lines and duplicates
         run: |
-          sort merged.txt | uniq > 1/1.txt
+          grep -vE '^(#|!)' merged.txt | sort | uniq > 1/1.txt
 
       - name: Commit and push changes
         run: |
