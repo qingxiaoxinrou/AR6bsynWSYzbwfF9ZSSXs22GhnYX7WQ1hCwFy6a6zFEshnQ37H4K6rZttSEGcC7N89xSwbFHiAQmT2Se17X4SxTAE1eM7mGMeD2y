@@ -18,14 +18,20 @@ jobs:
       - name: Download TXT files
         run: |
           mkdir -p downloads
-          wget -O downloads/file1.txt http://example.com/file1.txt
-          wget -O downloads/file2.txt http://example.com/file2.txt
-          # 添加更多的文件下载
+          FILES=(
+            "https://adguardteam.github.io/HostlistsRegistry/assets/filter_38.txt"
+            "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt"
+            "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"
+            "https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt"
+          )
+          for FILE in "${FILES[@]}"; do
+            FILENAME=$(basename "$FILE")
+            wget -O "downloads/$FILENAME" "$FILE"
+          done
 
       - name: Rename and merge files
         run: |
-          cat downloads/file1.txt downloads/file2.txt > merged.txt
-          # 添加更多的文件合并
+          cat downloads/*.txt > merged.txt
 
       - name: Remove duplicate lines
         run: |
