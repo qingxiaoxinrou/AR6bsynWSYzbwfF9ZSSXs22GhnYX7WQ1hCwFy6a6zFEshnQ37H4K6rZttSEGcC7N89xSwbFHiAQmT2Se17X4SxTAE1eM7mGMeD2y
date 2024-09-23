@@ -49,8 +49,8 @@ jobs:
           LINE_COUNT=$(awk '!/^#|^!|^@@|^:/' merged.txt | sort | uniq | wc -l)
           BEIJING_TIME=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
           {
-            echo "# Merged on $BEIJING_TIME"
-            echo "# Total lines: $LINE_COUNT"
+            echo "# 生成时间: $BEIJING_TIME"
+            echo "# 规则数量: $LINE_COUNT"
             awk '!/^#|^!|^@@|^:/' merged.txt | sort | uniq
           } > 1/1.txt
 
