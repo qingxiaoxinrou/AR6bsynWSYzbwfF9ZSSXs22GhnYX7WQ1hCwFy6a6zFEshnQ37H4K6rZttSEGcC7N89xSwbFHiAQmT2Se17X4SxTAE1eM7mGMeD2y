@@ -3,6 +3,7 @@ name: Fetch and Merge TXT Files
 on:
   schedule:
     - cron: '*/20 * * * *'
+workflow_dispatch:
 
 jobs:
   fetch-and-merge:
