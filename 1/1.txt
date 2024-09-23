@@ -1,3 +1,4 @@
+# Merged on Mon Sep 23 19:24:11 UTC 2024
 
 *ad.durasite.net^
 -adx-*.rayjump.com^
