@@ -33,14 +33,18 @@ jobs:
         run: |
           cat downloads/*.txt > merged.txt
 
+      - name: Create output directory
+        run: |
+          mkdir -p 1
+
       - name: Remove duplicate lines
         run: |
-          sort merged.txt | uniq > /1/merged_unique.txt
+          sort merged.txt | uniq > 1/merged_unique.txt
 
       - name: Commit and push changes
         run: |
           git config --local user.email "you@example.com"
           git config --local user.name "Your Name"
-          git add /1/merged_unique.txt
+          git add 1/merged_unique.txt
           git commit -m "Add merged unique TXT file"
           git push
