@@ -1,0 +1,40 @@
+name: Merge TXT Files
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  push:
+    branches:
+      - main
+
+jobs:
+  merge_txt:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Download TXT files
+        run: |
+          mkdir -p downloads
+          wget -O downloads/file1.txt http://example.com/file1.txt
+          wget -O downloads/file2.txt http://example.com/file2.txt
+          # 添加更多的文件下载
+
+      - name: Rename and merge files
+        run: |
+          cat downloads/file1.txt downloads/file2.txt > merged.txt
+          # 添加更多的文件合并
+
+      - name: Remove duplicate lines
+        run: |
+          sort merged.txt | uniq > /1/merged_unique.txt
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "you@example.com"
+          git config --local user.name "Your Name"
+          git add /1/merged_unique.txt
+          git commit -m "Add merged unique TXT file"
+          git push
