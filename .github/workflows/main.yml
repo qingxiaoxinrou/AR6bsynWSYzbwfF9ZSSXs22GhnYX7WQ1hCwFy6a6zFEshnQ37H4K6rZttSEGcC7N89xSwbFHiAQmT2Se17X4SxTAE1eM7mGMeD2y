@@ -39,7 +39,7 @@ jobs:
 
       - name: Remove comment lines and duplicates
         run: |
-          grep -vE '^(#|!)' merged.txt | sort | uniq > 1/1.txt
+          awk '!/^#|^!/' merged.txt | sort | uniq > 1/1.txt
 
       - name: Commit and push changes
         run: |
