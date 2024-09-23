@@ -41,6 +41,14 @@ jobs:
         run: |
           awk '!/^#|^!/' merged.txt | sort | uniq > 1/1.txt
 
+      - name: Check if file exists
+        run: |
+          if [ -f 1/1.txt ]; then
+            echo "1/1.txt exists"
+          else
+            echo "1/1.txt does not exist" && exit 1
+          fi
+
       - name: Commit and push changes
         run: |
           git config --local user.email "you@example.com"
