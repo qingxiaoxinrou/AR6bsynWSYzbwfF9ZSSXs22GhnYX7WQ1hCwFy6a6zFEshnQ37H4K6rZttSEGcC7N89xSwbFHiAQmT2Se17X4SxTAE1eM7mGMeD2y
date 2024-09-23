@@ -45,6 +45,6 @@ jobs:
         run: |
           git config --local user.email "you@example.com"
           git config --local user.name "Your Name"
-          git add 1/merged_unique.txt
+          git add 1/1.txt
           git commit -m "Add merged unique TXT file"
           git push
