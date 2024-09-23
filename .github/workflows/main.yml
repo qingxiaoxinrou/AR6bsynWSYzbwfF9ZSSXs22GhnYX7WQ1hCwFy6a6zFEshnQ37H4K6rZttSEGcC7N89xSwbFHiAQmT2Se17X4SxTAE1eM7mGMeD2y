@@ -43,11 +43,7 @@ jobs:
 
       - name: Check if output file was created
         run: |
-          if [ -f 1/1.txt ]; then
-            echo "1/1.txt exists"
-          else
-            echo "1/1.txt does not exist" && exit 1
-          fi
+          ls -l 1/1.txt
 
       - name: Add and commit changes
         run: |
@@ -55,5 +51,9 @@ jobs:
           git config --local user.name "Your Name"
           git add 1/1.txt
           git status
-          git commit -m "Add merged unique TXT file as 1.txt"
+          if [ "$(git diff --cached --name-only)" ]; then
+            git commit -m "Add merged unique TXT file as 1.txt"
+          else
+            echo "No changes to commit"
+          fi
           git push
