@@ -1,4 +1,5 @@
-# Merged on Mon Sep 23 19:24:11 UTC 2024
+# Merged on 2024-09-24 03:27:50
+# Total lines: 125562
 
 *ad.durasite.net^
 -adx-*.rayjump.com^
