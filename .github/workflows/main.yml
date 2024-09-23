@@ -39,7 +39,7 @@ jobs:
 
       - name: Remove comment lines and duplicates
         run: |
-          awk '!/^#|^!/' merged.txt | sort | uniq > 1/1.txt
+          awk '!/^#|^!|^@@/' merged.txt | sort | uniq > 1/1.txt
 
       - name: Check if output file was created
         run: |
