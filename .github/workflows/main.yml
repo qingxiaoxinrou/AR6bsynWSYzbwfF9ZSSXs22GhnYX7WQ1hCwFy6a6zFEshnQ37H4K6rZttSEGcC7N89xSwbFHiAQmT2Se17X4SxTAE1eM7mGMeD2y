@@ -38,7 +38,10 @@ jobs:
 
       - name: Remove comment lines, duplicate lines, and lines starting with
         run: |
-          awk '!/^#|^!|^@@|^:/' merged.txt | sort | uniq > 1/1.txt
+          {
+            echo "# Merged on $(date)"
+            awk '!/^#|^!|^@@|^:/' merged.txt | sort | uniq
+          } > 1/1.txt
 
       - name: Check if output file was created
         run: |
