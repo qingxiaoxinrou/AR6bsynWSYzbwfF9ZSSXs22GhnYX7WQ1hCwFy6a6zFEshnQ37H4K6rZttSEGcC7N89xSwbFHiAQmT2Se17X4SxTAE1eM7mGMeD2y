@@ -38,8 +38,11 @@ jobs:
 
       - name: Remove comment lines, duplicate lines, and lines starting with
         run: |
+          LINE_COUNT=$(awk '!/^#|^!|^@@|^:/' merged.txt | sort | uniq | wc -l)
+          BEIJING_TIME=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
           {
-            echo "# Merged on $(date)"
+            echo "# Merged on $BEIJING_TIME"
+            echo "# Total lines: $LINE_COUNT"
             awk '!/^#|^!|^@@|^:/' merged.txt | sort | uniq
           } > 1/1.txt
 
