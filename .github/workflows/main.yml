@@ -18,18 +18,12 @@ jobs:
         run: |
           mkdir -p downloads
           FILES=(
-            "https://adguardteam.github.io/HostlistsRegistry/assets/filter_38.txt"
-            "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt"
-            "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"
-            "https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt"
-            "https://adguardteam.github.io/HostlistsRegistry/assets/filter_53.txt"
-            "https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt"
-            "https://adguardteam.github.io/HostlistsRegistry/assets/filter_34.txt"
-            "https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt"
-            "https://adguardteam.github.io/HostlistsRegistry/assets/filter_33.txt"
+            "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.wildcards"
+            "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt"
             "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt"
-            "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-adguard.txt"
-            "https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt"
+            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt"
+            "https://anti-ad.net/easylist.txt"
+            "https://big.oisd.nl"
           )
           for FILE in "${FILES[@]}"; do
             FILENAME=$(basename "$FILE")
