@@ -49,9 +49,9 @@ jobs:
             awk '!/^#|^!|^@@|^:/' merged.txt | sort | uniq
           } > 1/1.txt
 
-      - name: Replace ^ with $dnsrewrite=NXDOMAIN;;
+      - name: Replace ^ with $dnsrewrite=NOERROR;;
         run: |
-          sed -i 's/\^/$dnsrewrite=NXDOMAIN;;/g' 1/1.txt
+          sed -i 's/\^/$dnsrewrite=NOERROR;;/g' 1/1.txt
 
       - name: Check if output file was created
         run: |
