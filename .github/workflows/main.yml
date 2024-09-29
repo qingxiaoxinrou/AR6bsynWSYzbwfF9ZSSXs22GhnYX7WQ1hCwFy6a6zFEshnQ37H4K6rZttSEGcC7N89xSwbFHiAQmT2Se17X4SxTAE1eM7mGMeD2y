@@ -51,7 +51,7 @@ jobs:
 
       - name: Replace ^ with $dnsrewrite=NOERROR;;
         run: |
-          sed -i 's/\^/$dnsrewrite=NOERROR;;/g' 1/1.txt
+          sed -i 's/\^/^$dnsrewrite=NOERROR;;/g' 1/1.txt
 
       - name: Check if output file was created
         run: |
