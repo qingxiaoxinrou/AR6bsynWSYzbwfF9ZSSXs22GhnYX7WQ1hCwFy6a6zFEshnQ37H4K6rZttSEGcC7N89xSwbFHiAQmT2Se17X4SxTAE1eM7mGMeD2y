@@ -18,7 +18,7 @@ jobs:
         run: |
           mkdir -p downloads
           FILES=(
-            "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.wildcards"
+            "https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/adblock.txt"
             "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt"
             "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt"
             "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt"
