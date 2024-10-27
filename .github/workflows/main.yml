@@ -39,15 +39,16 @@ jobs:
         run: |
           mkdir -p 1
 
-	  - name: Remove comment lines, duplicate lines, and process lines
-	  run: |
-		  LINE_COUNT=$(awk '!/^#|^!|^@@|^:/' merged.txt | sort | uniq | wc -l)
-		  BEIJING_TIME=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
-		  {
-		  echo "# 生成时间: $BEIJING_TIME"
-		  echo "# 规则数量: $LINE_COUNT"
-		  awk '!/^#|^!|^@@|^:/' merged.txt | sort | uniq
-		  } > 1/1.txt
+      - name: Remove comment lines and duplicate lines
+        run: |
+          LINE_COUNT=$(awk '!/^#|^!|^@@|^:/' merged.txt | sort | uniq | wc -l)
+          BEIJING_TIME=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
+          {
+            echo "# 生成时间: $BEIJING_TIME"
+            echo "# 规则数量: $LINE_COUNT"
+            awk '!/^#|^!|^@@|^:/' merged.txt | sort | uniq
+          } > 1/1.txt
+
       - name: Check if output file was created
         run: |
           ls -l 1/1.txt
