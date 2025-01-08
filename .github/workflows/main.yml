@@ -26,7 +26,6 @@ jobs:
             "https://big.oisd.nl"
             "https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt"
             "https://raw.githubusercontent.com/lingeringsound/10007_auto/master/adb.txt"
-            "https://raw.githubusercontent.com/guandasheng/adguardhome/refs/heads/main/rule/all.txt"
           )
           for FILE in "${FILES[@]}"; do
             FILENAME=$(basename "$FILE")
