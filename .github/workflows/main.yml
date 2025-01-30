@@ -40,6 +40,11 @@ jobs:
         run: |
           mkdir -p 1
 
+      - name: Remove lines containing '||360.cn^'
+        run: |
+          grep -v '||360.cn^' merged.txt > filtered.txt
+          mv filtered.txt merged.txt
+
       - name: Remove comment lines and duplicate lines
         run: |
           LINE_COUNT=$(awk '!/^#|^!|^@@|^:/' merged.txt | sort | uniq | wc -l)
