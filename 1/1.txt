@@ -1,5 +1,5 @@
-# 生成时间: 2025-02-27 15:59:17
-# 规则数量: 179992
+# 生成时间: 2025-02-27 16:30:33
+# 规则数量: 179999
 
 %2Fevent.gif%3F
 %2Fopen.aspx%3F
@@ -42223,6 +42223,7 @@ z4a.net
 ||bm23.com^
 ||bma.relationshipone.com^
 ||bmail.getventive.com^
+||bmasamd.top^
 ||bmbezlim.inventnamb.click^
 ||bmbjpv.liverpooljeans.com^
 ||bmcdn1.com^
@@ -60942,6 +60943,7 @@ z4a.net
 ||dhss.pro^
 ||dhuimjkivb.com^
 ||dhukul.com^
+||dhulzehgk.com^
 ||dhuquxqy.com^
 ||dhux7ijh.click^
 ||dhvarz.fischer.com.br^
@@ -61052,6 +61054,7 @@ z4a.net
 ||diapers.7eer.net^
 ||diapi.webgains.com^
 ||diaspora-news.com^
+||diav.cn^
 ||dibbuksnoonlit.shop^
 ||diboji.class101.net^
 ||dibsemey.com^
@@ -70207,6 +70210,7 @@ z4a.net
 ||fbu8.ticket-online.montecarlolive.com^
 ||fbuhtx.airfix.com^
 ||fbuser.ovp.vn^
+||fbvbrb.icu^
 ||fbvbyi.abekker.ru^
 ||fbycnk.chiaki.vn^
 ||fbywsl.wuerzburger-jobanzeiger.de^
@@ -74093,7 +74097,6 @@ z4a.net
 ||gecfnc.foresight.jp^
 ||geckad.com^
 ||geckibou.com^
-||gecko*.tiktov.us^
 ||gecko-hl.snssdk.com^
 ||gecko-lq.snssdk.com^
 ||gecko.me^$third-party
@@ -125759,6 +125762,7 @@ z4a.net
 ||rdir.smartshoppingads.co.uk^
 ||rdiul.com^
 ||rdllwd.gasjeans.com^
+||rdllzz.icu^
 ||rdlrbm.studying.jp^
 ||rdoiwy.msccroisieres.ch^
 ||rdpyjpljfqfwah.xyz^
@@ -128165,6 +128169,7 @@ z4a.net
 ||roispy.com^
 ||roistat.com^
 ||rojectnu01.webtrekk.net^
+||rojj.cn^
 ||rokettsaince.com^
 ||rokreeza.com^
 ||roksa.sx^
@@ -135005,6 +135010,7 @@ z4a.net
 ||sharpspring.com^
 ||sharpwavedreinforce.com^
 ||shasogna.com^
+||shatielsu.com^
 ||shatsoutheshe.net^
 ||shatterconceal.com^
 ||shauduptel.net^
@@ -164364,6 +164370,7 @@ z4a.net
 ||utrius.com^
 ||utrudnieniowe.click^
 ||utrzymacpoziom.click^
+||uts.auction.co.kr
 ||uts.auction.co.kr^
 ||uts.gmarket.co.kr^
 ||utsgw.auction.co.kr^
