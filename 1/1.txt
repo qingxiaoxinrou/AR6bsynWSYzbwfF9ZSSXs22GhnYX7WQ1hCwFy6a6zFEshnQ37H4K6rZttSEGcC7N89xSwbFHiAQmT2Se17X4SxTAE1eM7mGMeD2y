@@ -1,5 +1,5 @@
-# 生成时间: 2025-02-27 14:21:48
-# 规则数量: 179991
+# 生成时间: 2025-02-27 14:42:54
+# 规则数量: 179992
 
 %2Fevent.gif%3F
 %2Fopen.aspx%3F
@@ -120351,6 +120351,7 @@ z4a.net
 ||pnvtlh.xyz^
 ||pnwawbwwx.com^
 ||pnwrs5xz.click^
+||pnwrs5xz.click^$all
 ||pny.net.penny.de^
 ||pnyf1.top^
 ||pnytimes.chartbeat.net^
