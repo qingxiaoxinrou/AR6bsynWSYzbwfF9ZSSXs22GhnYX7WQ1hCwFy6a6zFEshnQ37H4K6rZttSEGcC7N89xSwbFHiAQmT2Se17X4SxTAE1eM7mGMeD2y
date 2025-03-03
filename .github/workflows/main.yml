@@ -27,6 +27,7 @@ jobs:
             "https://raw.githubusercontent.com/lingeringsound/10007_auto/master/adb.txt"
             "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt"
             "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt"
+            "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts"
           )
           for FILE in "${FILES[@]}"; do
             FILENAME=$(basename "$FILE")
