@@ -1,5 +1,5 @@
-# 生成时间: 2025-03-03 07:59:28
-# 规则数量: 151771
+# 生成时间: 2025-03-03 09:55:36
+# 规则数量: 151877
 
 %2Fevent.gif%3F
 %2Fopen.aspx%3F
@@ -6487,6 +6487,7 @@ z4a.net
 ||49453k0l.vr.loveota.com^
 ||49453k0l.vs.loveota.com^
 ||49706204.xyz^
+||49709796.xyz^
 ||49766251.xyz^
 ||49d4db4864.com^
 ||49wanwan.com^
@@ -7046,6 +7047,7 @@ z4a.net
 ||71zrh.cn^
 ||720-trail.co.uk^
 ||72075223.xyz^
+||72123581.xyz^
 ||721ffc3ec5.com^
 ||72356275.xyz^
 ||72560514.xyz^
@@ -7605,6 +7607,7 @@ z4a.net
 ||9bdb.pandasuite.io^
 ||9bf9309f6f.com^
 ||9cbj41a5.de^
+||9cd4abb9e0.com^
 ||9cd76b4462bb.com^
 ||9cow.cn^
 ||9cp.cn^
@@ -14625,6 +14628,7 @@ z4a.net
 ||ada.prxof.live^
 ||ada8-2.ampleur.jp^
 ||ada8.ampleur.jp^
+||adabdapi.ldmnq.com^
 ||adabra.com^
 ||adacado.com^
 ||adaccount.csdn.net^
@@ -14668,7 +14672,9 @@ z4a.net
 ||adapi-srv-us-west.smartadserver.com^
 ||adapi-usfirst.smartadserver.com^
 ||adapi.about.co.kr^
+||adapi.addealsnetwork.com^
 ||adapi.gunosy.com^
+||adapi.ihuman.com^
 ||adapi.inlcorp.com^
 ||adapi.izuiyou.com^
 ||adapi.lenovogame.com^
@@ -15467,6 +15473,7 @@ z4a.net
 ||admetricspro.com^
 ||admez.com^
 ||admgr.qingting.fm^
+||admgrapi.mobvista.com^
 ||admicro*.vcmedia.vn^
 ||admicro.vn^
 ||admidadsp.com^
@@ -22104,6 +22111,7 @@ z4a.net
 ||aili.com^
 ||ailil-fzt.com^
 ||ailla.abphotos.link^
+||aillaeuyn.com^
 ||ailrouno.net^
 ||ailzgt.cyberport.at^
 ||aim4media.com^
@@ -24608,6 +24616,7 @@ z4a.net
 ||anametrix.com^
 ||anametrix.net^
 ||anamuel-careslie.com^
+||anapi.tangiblee.com^
 ||anapirate.com^
 ||anapp.adobe.com^
 ||anassets.bbh.com^
@@ -25050,6 +25059,7 @@ z4a.net
 ||apaclandingpage.ajo1apac.adls.adobevlab.com^
 ||apads.mediasmart.io^
 ||apads.mspremium.io^
+||apapi.adpopcorn.com^
 ||apartemployee.com^
 ||apartinept.com^
 ||apartsermon.com^
@@ -27732,6 +27742,7 @@ z4a.net
 ||app2up.info^
 ||appad-api-01.perfectcorp.com^
 ||appad02.mbsp.jp^
+||appadapi.ihuman.com^
 ||appadhoc.com^
 ||appadhoc.net^
 ||appads.com^
@@ -27739,6 +27750,7 @@ z4a.net
 ||appadv.offerstrack.net^
 ||appanalysis*.banggood.com^
 ||appanalysis.banggood.com^
+||appapi.inspsearchapi.com^
 ||appar3ladv3nture.quest^
 ||apparatusditchtulip.com^
 ||apparatuslip.com^
@@ -36763,6 +36775,7 @@ z4a.net
 ||chat1.jd.com^
 ||chat1.pro-activprofit.site^
 ||chat1.pro-masters.xyz^
+||chatapi.providesupport.com^
 ||chatboost-cv.algoage.co.jp^
 ||chatbotinvest.pro^
 ||chatbottinvest.pro^
@@ -37578,6 +37591,7 @@ z4a.net
 ||clevv.com^
 ||clgserv.pro^
 ||clhzet.ubierzswojesciany.pl^
+||cliapi.microfun.cn^
 ||clicadu.com^
 ||click-2.eu^
 ||click-allow.top^
@@ -38293,6 +38307,7 @@ z4a.net
 ||cloudads.tv^
 ||cloudads.tv^$third-party
 ||cloudadservers.com^
+||cloudapi.imrworldwide.com^
 ||cloudcdn.gdn^
 ||cloudcdn.yousee.com^
 ||cloudcoins.co^
@@ -38609,6 +38624,7 @@ z4a.net
 ||cnc-boatnet.vpnvn4g.com^
 ||cnc.multiax.com^
 ||cnc.stressamp.com^
+||cncapi.getui.com^
 ||cndjs-1251973891.coshk.myqcloud.com^
 ||cndynza.click^
 ||cnebis.chocola.com^
@@ -40414,6 +40430,7 @@ z4a.net
 ||coreads-console.cambridge.org^
 ||coreads.cambridge.org^
 ||coreads.pmdstatic.net^
+||coreapi.adjarabet.com^
 ||corebug.adsame.com^
 ||corechina.net^
 ||coreexperiment.com^
@@ -41029,6 +41046,7 @@ z4a.net
 ||crash.163.com^
 ||crash.xiaohongshu.com^
 ||crash2.zhihu.com^
+||crashapi.growingio.com^
 ||crashchance.com^
 ||crashes.mo.wps.cn^
 ||crasheye.cn^
@@ -42102,6 +42120,7 @@ z4a.net
 ||cxrptu.danland.dk^
 ||cxsaev.stratiaskin.com^
 ||cxsh.cn.com^
+||cxuapz.xyz^
 ||cxulqs.ils.de^
 ||cxvyk.com^
 ||cxwisl.jetstereo.com^
@@ -43742,6 +43761,8 @@ z4a.net
 ||dash.getsitecontrol.com^
 ||dash.zintrack.com^
 ||dashantechan.cn^
+||dashapi.chartbeat.com^
+||dashapi.chartboost.com^
 ||dashbida.com^
 ||dashboard.io^
 ||dashboard.ttpsdk.info^
@@ -47446,6 +47467,8 @@ z4a.net
 ||dcad1d97.xyz^
 ||dcads.sina.com.cn^
 ||dcai7bdiz5toz.cloudfront.net^
+||dcapi.dmp.3lift.com^
+||dcapi.tagger.opecloud.com^
 ||dcapps.disney.go.com^
 ||dcbbwymp1bhlf.cloudfront.net^
 ||dcbpm.suning.cn^
@@ -47670,6 +47693,7 @@ z4a.net
 ||deals.newshuntads.com^
 ||dealsfor.life^
 ||dealtoe.click^
+||deapi.sooplive.co.kr^
 ||dearestimmortality.com^
 ||dearsdieback.shop^
 ||deasandcomemunic.com^
@@ -48634,6 +48658,7 @@ z4a.net
 ||dianyilm.com^
 ||diaoguoshi.mobi^
 ||diaopic.14bobo.com^
+||diapi.webgains.com^
 ||diav.cn^
 ||dibbuksnoonlit.shop^
 ||diboji.class101.net^
@@ -48691,6 +48716,7 @@ z4a.net
 ||difnxm.cn^
 ||difoxv.dermaflash.com^
 ||difyferukentasp.com^
+||difzhd.icu^
 ||dig.bdurl.net^
 ||dig.lianjia.com^
 ||dig.qbao.com^
@@ -49761,6 +49787,7 @@ z4a.net
 ||dnlqcffvhqvgdh.com^
 ||dnltkp.lampeetlumiere.fr^
 ||dnn506yrbagrg.cloudfront.net^
+||dnnapi.com^
 ||dno.tentaklsistem.click^
 ||dnpalh.xyz^
 ||dnpjzf.fashionette.co.uk^
@@ -50863,6 +50890,7 @@ z4a.net
 ||dsp1.unoadsrv.com^
 ||dsp5stero.com^
 ||dspack.com.cn^
+||dspapi.bidtellect.com^
 ||dsparking.com^
 ||dspimg.adsame.com^
 ||dspimg.dftoutiao.com^
@@ -51196,6 +51224,7 @@ z4a.net
 ||dwfupceuqm.com^
 ||dwga.kockensredskap.se^
 ||dwglgp.dunelm.com^
+||dwhapi.ext.terrhq.ru^
 ||dwhfqyafsct.com^
 ||dwhitdoedsrag.org^
 ||dwin1.com^
@@ -51342,6 +51371,7 @@ z4a.net
 ||dzbuad.dr505.com^
 ||dzdgfp673c1p0.cloudfront.net^
 ||dzdkw9.cn^
+||dzdmvnegsov.com^
 ||dzdnffs.xyz^
 ||dzeaqmeuaql.com^
 ||dzforp.buscape.com.br^
@@ -55388,6 +55418,7 @@ z4a.net
 ||event1.thermoscientific.com^
 ||event3.thermofisher.com^
 ||event3.thermoscientific.com^
+||eventapi.afreecatv.com^
 ||eventapi.libring.com^
 ||eventapi.sooplive.co.kr^
 ||eventbarricadewife.com^
@@ -56024,6 +56055,7 @@ z4a.net
 ||ext.host-tracker.com^
 ||ext.movixhub.com^$popup
 ||extads.gameloft.com^
+||extapi.wavebrowserbase.com^
 ||extend.tv^
 ||extendingboundsbehave.com^
 ||extendprophecycontribution.com^
@@ -56747,6 +56779,7 @@ z4a.net
 ||fc861ba414.com^
 ||fca6f.icu^
 ||fcanr.tracking.miui.com^
+||fcapi.jpush.cn^
 ||fcb8.mobi^
 ||fcbarcelona.hb-api.omtrdc.net^
 ||fcbdpock.icu^
@@ -57535,6 +57568,8 @@ z4a.net
 ||fish.muted.io^
 ||fish.trampoline.cx^
 ||fish.whitney.org^
+||fishapi.taisum2.com^
+||fishapi.xinloiduocchua.co^
 ||fishermanplacingthrough.com^
 ||fishermanslush.com^
 ||fisherspythium.com^
@@ -58694,6 +58729,7 @@ z4a.net
 ||free247downloads.com^
 ||free3dgame.xyz^
 ||freeadultcomix.com^
+||freeapi.teddymobile.cn^
 ||freebiesurveys.com^
 ||freebloghitcounter.com^
 ||freecontent.*^
@@ -59641,6 +59677,7 @@ z4a.net
 ||gameads.io^
 ||gameadvertisingonline.com^
 ||gameanalytics.com^
+||gameapi.w88.vin^
 ||gameapp.pro^
 ||gamebox.360.cn^
 ||gamebox.kugou.com^
@@ -59927,6 +59964,7 @@ z4a.net
 ||gcm.lhhxlj.com^
 ||gcm.naiadsystems.com^
 ||gcmadv-cdn.goldspotmedia.com^
+||gcmapi.wshareit.com^
 ||gcn.tuv.com^
 ||gcoiys.cutsclothing.com^
 ||gcolzvkh.com^
@@ -59998,6 +60036,7 @@ z4a.net
 ||gdsns1.mmstat.com^
 ||gdt.dsp.mediav.com^
 ||gdt.qq.com^
+||gdtapi.mobvista.com^
 ||gdtimg.com^
 ||gdtsxk.dedoles.pl^
 ||gdtzdr.pandacraft.fr^
@@ -60158,6 +60197,7 @@ z4a.net
 ||geoads.eurorevenue.com^
 ||geoads.osdn.com^
 ||geoadserver.com^
+||geoapi.moengage.com^
 ||geobanner.adultfriendfinder.com^
 ||geobanner.alt.com^
 ||geobanner.blacksexmatch.com^
@@ -64022,6 +64062,7 @@ z4a.net
 ||gw5.push.mcp.weibo.cn^
 ||gw8.icu^
 ||gwallet.com^
+||gwapi.callminer.net^
 ||gwbone-cpw.today^
 ||gwcadvlamk.com^
 ||gwdlvv.renefurtererusa.com^
@@ -64094,6 +64135,7 @@ z4a.net
 ||gyehtm.thebridge.it^
 ||gyfumobo.com^
 ||gygeboa0.pro^
+||gygvodegxicbv.love^
 ||gyhsok-invest.pro^
 ||gyklvfxbpt.com^
 ||gylezyi.pro^
@@ -64478,6 +64520,7 @@ z4a.net
 ||harderjuniormisty.com^
 ||hardinet.actonservice.com^
 ||hardlads.com^
+||hardnessanything.com^
 ||hardnesscorkimmature.com^
 ||hardtofindmilk.com^
 ||hardynylon.com^
@@ -68953,6 +68996,7 @@ z4a.net
 ||inamiaaglow.life^
 ||inaneamenvote.com^
 ||inanzimpos.pro^
+||inapi.flygame.io^
 ||inapp.1sapp.com^
 ||inappi.co^
 ||inappi.me^
@@ -68969,6 +69013,7 @@ z4a.net
 ||inbound-analytics.pixlee.co^
 ||inbound-analytics.pixlee.com^
 ||inbound-step.heavenmedia.com^
+||inboxapi.moengage.com^
 ||inboxtag.com^
 ||inbreedbeelbow.shop^
 ||inbrowserplay.com^
@@ -71109,6 +71154,7 @@ z4a.net
 ||iot-mktg.vodafone.com^
 ||iot.informaengage.com^
 ||iotadvworkshop.com^
+||iotapi.adups.com^
 ||iotapool.com^
 ||iotechnologies.com^
 ||ioublio.top^
@@ -71751,6 +71797,7 @@ z4a.net
 ||iwilmio.top^
 ||iwl2d7pa4yx1.www.logology.co^
 ||iwlnpw.claudiepierlot.com^
+||iwmapapi.americanexpress.com^
 ||iwmigu.xyz^
 ||iwmjsk.jw.com.au^
 ||iwouhoft.com^
@@ -73643,6 +73690,7 @@ z4a.net
 ||jyzkut.com^
 ||jyzmsy.com.cn^
 ||jz4u1.icu^
+||jzapi.baidu.com^
 ||jzauch.motostorm.it^
 ||jzayvj.enercity.de^
 ||jzdn.talk-hk.cn^
@@ -76103,6 +76151,7 @@ z4a.net
 ||leb-app.diasporaid.com^
 ||lebaneseads.com^
 ||lebinaphy.com^
+||leboapi.hpplay.com.cn^
 ||lebratent.com^
 ||lebtpm.co-medical.com^
 ||lecapush.net^
@@ -76575,6 +76624,7 @@ z4a.net
 ||lifetimeagriculturalproducer.com^
 ||lifiads.com^
 ||lift.acquia.com^
+||liftapi.logly.co.jp^
 ||liftdna.com^
 ||liftedd.net^
 ||liftedknowledge.com^
@@ -77705,6 +77755,7 @@ z4a.net
 ||litchiads.com^
 ||litdeetar.live^
 ||lite.a.market.xiaomi.com^
+||liteapi.ekatox.com^
 ||litehotnews24gr.pro^
 ||literally-analytics.appspot.com^
 ||literalpraisepassengers.com^
@@ -79345,6 +79396,7 @@ z4a.net
 ||localads.chengzijianzhan.cn^
 ||localads.maps.me^
 ||localadvertisininganswers.com^
+||localapi.trazk.com^
 ||localbitcoins.com^$third-party
 ||localedgemedia.com^
 ||localityforeheadrutabagaar.pro^
@@ -79662,7 +79714,11 @@ z4a.net
 ||log6.reader.qq.com^
 ||logabc.pro^
 ||logaholic.com^
+||logapi.alza.cz^
+||logapi.ihuman.com^
+||logapi.karbord.io^
 ||logapi.kt.com^
+||logapi.misa.com.vn^
 ||logapi.tv.naver.com^
 ||logapi.zhipin.com^
 ||logbak.hicloud.com^
@@ -84918,6 +84974,7 @@ z4a.net
 ||mbjrkm2.com^
 ||mbkqtz.bestblanks.com^
 ||mbl.pro-masters.xyz^
+||mblapi.ssl2.duapps.com^
 ||mbledeparatea.com^
 ||mbljpu9.com^
 ||mbmgivexdvpajr.com^
@@ -88650,6 +88707,7 @@ z4a.net
 ||mktgcsd.pixmania.com^
 ||mktgpage.appier.com^
 ||mktlp.accenturemkt.adobesandbox.com^
+||mktoapi.com^
 ||mktoresp.com^
 ||mktp-base.mktplatforms.com^
 ||mktredtrack.worldscientific.com^
@@ -88835,7 +88893,6 @@ z4a.net
 ||mnfqyj.corello.com.br^
 ||mng-ads.com^
 ||mnggif.kieler-jobanzeiger.de^
-||mngusr.com^
 ||mnhjk.com^
 ||mnhjkl.com^
 ||mniejszoscspoleczna.click^
@@ -92862,6 +92919,7 @@ z4a.net
 ||nra.locktonaffinity.net^
 ||nrbwzh.icu^
 ||nrc.tapas.net^
+||nrcapi.ssl2.duapps.com^
 ||nrcykmnukb.com^
 ||nreg.world^
 ||nrelate.com^
@@ -92972,6 +93030,7 @@ z4a.net
 ||nsmetrics.weeklytimesnow.com.au^
 ||nsmpydfe.net^
 ||nsmxil.takibu.com^
+||nspapi.aiservice.vn^
 ||nspmotion.com^
 ||nspot.co^
 ||nspt.bdstatic.com^
@@ -93154,6 +93213,7 @@ z4a.net
 ||nv-sdk.jumio.com^
 ||nv.inhaabit.com^
 ||nv3tosjqd.com^
+||nvapi.feeldmc.com^
 ||nvbflc.pinkpanda.bg^
 ||nvbzaw.istitutovolta.eu^
 ||nvbzhb.just4men.de^
@@ -94440,6 +94500,7 @@ z4a.net
 ||omadi.actonservice.com^
 ||omahasteaks.com.102.122.207.net^
 ||omapi.fangraphs.com^
+||omapi.optinmonster.com^
 ||omappapi.com^
 ||omarcheopson.com^
 ||omareeper.com^
@@ -94973,6 +95034,7 @@ z4a.net
 ||onmantineer.com^
 ||onmatotajot.click^
 ||onmlkjiion.carte-gr.total.fr^
+||onmoxskatoxx.com^
 ||onmstgh.icu^
 ||onneradventure.live^
 ||ono.axp.amazon-adsystem.com^
@@ -95187,6 +95249,9 @@ z4a.net
 ||openadsnetwork.com^
 ||openapi-news.meizu.com^
 ||openapi.cymera.com^
+||openapi.guanjia.qq.com^
+||openapi.vip.ptqy.gitv.tv^
+||openapi.webull.com^
 ||openbook.net^
 ||openbox.mobilem.360.cn^
 ||opencan.net^
@@ -96758,6 +96823,7 @@ z4a.net
 ||pa5xjc.m1guelpf.me^
 ||pa6.fun^
 ||paa-reporting-advertising.amazon^
+||paapi.ctnsnet.com^
 ||paas-push-api.immomo.com^
 ||pabgey.siepomaga.pl^
 ||pabidding.io^
@@ -98408,6 +98474,7 @@ z4a.net
 ||pelmorexcorp-theweathernetwork.adsbynimbus.com^
 ||pelnaradosc.click^
 ||pema.cl^
+||pempia.sbs^
 ||pemskb.unitedcinemas.jp^
 ||pemsrv.com^
 ||penaikaucmu.net^
@@ -99488,6 +99555,7 @@ z4a.net
 ||pjtshn.floraprima.de^
 ||pjtxmd.epool.ru^
 ||pjvartonsbewand.info^
+||pjwk.cn^
 ||pjxjbs.krueger-dirndl.at^
 ||pk.ads.justpremium.com^
 ||pk.mainadv.com^
@@ -99529,6 +99597,7 @@ z4a.net
 ||pktbag.flighthub.com^
 ||pktytp.membershop.lv^
 ||pkudawbkcl.com^
+||pkvjrb.icu^
 ||pkyffuewwuhnld.com^
 ||pkyjuc.cn^
 ||pkzpvx.jeanscentre.nl^
@@ -100119,6 +100188,7 @@ z4a.net
 ||pn2.adserver.yahoo.com^
 ||pnaagn.haekplanter-heijnen.dk^
 ||pnads.com^
+||pnapi.invoca.net^
 ||pncloudfl.com^
 ||pncvaoh.com^
 ||pnd.gs^
@@ -100991,6 +101061,7 @@ z4a.net
 ||praluent-e.regeneron.com^
 ||pramenterpriseamy.com^
 ||pranmcpkx.com^
+||prapi.cision.com^
 ||prasadziennik.click^
 ||prasanowosci.click^
 ||prasaprawdziwa.click^
@@ -102437,6 +102508,7 @@ z4a.net
 ||pubads.wiinvent.tv^
 ||pubadx.one^
 ||pubaka5.com^
+||pubapi.bizport.cn^
 ||pubcircle.ai^
 ||pubdirecte.com^
 ||pubdisturbance.com^
@@ -103791,6 +103863,8 @@ z4a.net
 ||qr.dwtc.com^
 ||qr.juuice.com^
 ||qr.printko.ro^
+||qrapi.play.aiseet.atianqi.com^
+||qrapi.play.t002.ottcn.com^
 ||qrbizr.cn^
 ||qrcode.visit-thassos.com^
 ||qrdhek.petsupermarket.com^
@@ -106156,6 +106230,7 @@ z4a.net
 ||rest.wildstar-online.com^
 ||restabbingenologistwoollies.com^
 ||restadrenaline.com^
+||restapi.getui.com^
 ||restedfeatures.com^
 ||restedsoonerfountain.com^
 ||restights.pro^
@@ -107326,6 +107401,7 @@ z4a.net
 ||rta2.newzit.com^
 ||rtactivate.com^
 ||rtag.farmers.com^
+||rtapi.abbi.io^
 ||rtas.videocc.net^
 ||rtax.criteo.com^
 ||rtb-1.jizzberry.com^
@@ -109807,6 +109883,7 @@ z4a.net
 ||scanunderstiff.com^
 ||scanverify.com^
 ||scanwasted.com^
+||scapi.kuso.xyz^
 ||scar-shared.unityads.unity3d.com^
 ||scar.unityads.unity3d.com^
 ||scar.unityads.unitychina.cn^
@@ -110180,6 +110257,7 @@ z4a.net
 ||sdgreg.cn^
 ||sdhfbvd.com^
 ||sdhiltewasvery.info^
+||sdiapi.com^
 ||sdiatesupervis.com^
 ||sdickeb.top^
 ||sdipsumb.top^
@@ -110389,7 +110467,10 @@ z4a.net
 ||sdk3api.getui.com^
 ||sdk4push.com^
 ||sdkapi-smartop.jiguang.cn^
+||sdkapi.douyucdn.cn^
 ||sdkapi.dsp-api.moloco.com^
+||sdkapi.kookong.com^
+||sdkapi.netmera.com^
 ||sdkapp.mobile.sina.cn^
 ||sdkapp.uve.weibo.com^
 ||sdkcfg.adintl.cn^
@@ -111298,6 +111379,7 @@ z4a.net
 ||sefsdvc.com^
 ||seg.ad.gt^
 ||seg.sharethis.com^
+||segapi.quantserve.com^
 ||seginus.iad-03.braze.com^
 ||segment-api.goodrx.com^
 ||segment-api.humann.com^
@@ -112118,6 +112200,7 @@ z4a.net
 ||sgozmks.icu^
 ||sgp.o2o.api.xiaomi.com^
 ||sgp.smartadserver.com^
+||sgpapi.ad.intl.xiaomi.com^
 ||sgpimz.glamira.nl^
 ||sgpixel.adsafeprotected.com^
 ||sgpm-b1.dcntr-ads.com^
@@ -113016,6 +113099,7 @@ z4a.net
 ||shop.strongviking.com^
 ||shop265.com^
 ||shopalyst.com^
+||shopapi.ranking.rakuten.co.jp^
 ||shopasmobile.mobi^
 ||shopbloxfruit.click^
 ||shopbreakfast.com^
@@ -113230,6 +113314,7 @@ z4a.net
 ||sickflock.com^
 ||sicklybates.com^
 ||sicklypercussivecoordinate.com^
+||sicksarrish.top^
 ||sicksmash.com^
 ||siconoi.com^
 ||sicouthautso.net^
@@ -119008,6 +119093,7 @@ z4a.net
 ||spannercopyright.com^
 ||spanxtracksdk.optimove.net^
 ||spap.adingo.jp.eimg.jp^
+||spapi.i-mobile.co.jp^
 ||sparc.pro^
 ||sparechange.io^
 ||spareforads.top^
@@ -120562,6 +120648,9 @@ z4a.net
 ||ssp15.adview.cn^
 ||ssp16.adview.cn^
 ||sspadstrk.adpopcorn.com^
+||sspapi.admicro.vn^
+||sspapi.youxiaoad.com^
+||sspapi.zenyou.71360.com^
 ||sspkbf.ragtag.jp^
 ||sspmiaoshuo.cn-hangzhou.log.aliyuncs.com^
 ||sspmservice.ad-survey.com^
@@ -126180,6 +126269,7 @@ z4a.net
 ||tad.suning.com^
 ||tada10ve.jp^
 ||tada1ove.com^
+||tadapi.info^
 ||tadpull.com^
 ||tads.me^
 ||tads.mobadvent.com^
@@ -127605,6 +127695,7 @@ z4a.net
 ||tel.telegraaf.nl^
 ||tel3adv.112.2o7.net^
 ||telamoncom.actonservice.com^
+||telapi.getui.com^
 ||tele.trafficmanager.net^
 ||tele2.actonservice.com^
 ||telechargementdirect.net^
@@ -127983,6 +128074,7 @@ z4a.net
 ||testads.api.my7v.com^
 ||testads.rekmob.com^
 ||testads.traffichaus.com^
+||testapi.formotiv.com^
 ||testbnc.mksp.io^
 ||testbranch.onsequel.com^
 ||testcdn.adsafeprotected.com^
@@ -128203,6 +128295,8 @@ z4a.net
 ||thanmounted.com^
 ||thanosofcos5.com^
 ||thanot.com^
+||thapi.aedi.ai^
+||thapi.flygame.io^
 ||thaqne.com^
 ||thaqyl.mediamarkt.nl^
 ||tharbadir.com^
@@ -135810,6 +135904,7 @@ z4a.net
 ||tzgurwizule3.app.cardahealth.com^
 ||tzhbwf.retif.it^
 ||tzhfxe.bonlook.com^
+||tzhrmcnidxqwrb.com^
 ||tzngbm.noodzboutique.com.au^
 ||tzovkp.aboutyou.at^
 ||tzovwj.treningspartner.no^
@@ -138241,6 +138336,7 @@ z4a.net
 ||varz.mcyoung.xyz^
 ||vas-hl-x.snssdk.com^
 ||vas-lf-x.snssdk.com^
+||vasapi.rdtuijian.com^
 ||vasdpok-invest.pro^
 ||vasebehaved.com^
 ||vasfmbody.com^
@@ -138436,6 +138532,7 @@ z4a.net
 ||vegslb.com^
 ||vehiclepatsyacacia.com^
 ||vehosw.com^
+||veideasandcome.org^
 ||veilengh.com^
 ||veille-referencement.com^
 ||veilsuccessfully.com^
@@ -139151,6 +139248,7 @@ z4a.net
 ||vipads.live^
 ||vipads.offerstrack.net^
 ||vipadvert.net^
+||vipapi.wps.cn^
 ||vipdragonapp.monster^
 ||viper.kyrelldixon.com^
 ||viper.sitesauce.app^
@@ -140440,6 +140538,7 @@ z4a.net
 ||waaf1.alditalk.de^
 ||waaf1.hoferfotos.at^
 ||waaokm.peteralexander.co.nz^
+||waapi.netcoresmartech.com^
 ||waardex.com^
 ||waatch.gva.be^
 ||waatch.hbvl.be^
@@ -141264,6 +141363,9 @@ z4a.net
 ||webanalyticsnossl.websense.com^
 ||webanalyticsssl.websense.com^
 ||webapi.hot-mob.com^
+||webapi.moneysavingexpert.com^
+||webapi.salamantex.com^
+||webapi.staging.salamantex.com^
 ||webapp.e-post.smn.no^
 ||webapps.leasing.com^
 ||webarbitraging.pro^
@@ -142897,6 +142999,7 @@ z4a.net
 ||wp3advesting.com^
 ||wpadmngr.com^
 ||wpan.sc2yun.com^
+||wpapi.adwised.com^
 ||wparcunnv.xyz^
 ||wpauvu.obuvki.bg^
 ||wpb.wgplayer.com^
@@ -143073,6 +143176,7 @@ z4a.net
 ||wsd.guonongllc.com^
 ||wsdk-files.webengage.com^
 ||wsdk.rokt.com^
+||wsdkapi.netmera.com^
 ||wsds.cn^
 ||wsentativesathya.org^
 ||wsfc-t.topya.com^
@@ -147943,6 +148047,7 @@ z4a.net
 ||wxaaqr.plusdental.de^
 ||wxadserve.xyz^
 ||wxaintpcos.wxqcloud.qq.com.cn^
+||wxapi.growingio.com^
 ||wxas.ejwmc.cn^
 ||wxb.wxbdfm.com^
 ||wxbaal.ecosa.com.hk^
@@ -149264,6 +149369,7 @@ z4a.net
 ||xysefte.icu^
 ||xysgfqnara.xyz^
 ||xytcboyz.icu^
+||xywlapi.cc^
 ||xyxgbs.lezhin.com^
 ||xyxy01.com^
 ||xyxz.site^
