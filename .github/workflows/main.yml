@@ -18,7 +18,6 @@ jobs:
         run: |
           mkdir -p downloads
           FILES=(
-            "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt"
             "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt"
             "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt"
             "https://anti-ad.net/easylist.txt"
